@@ -1,0 +1,51 @@
+                                                               //////////////Installation in Windows////////////////////
+
+step 1 go to URL , [ https://git-scm.com/downloads ] and download the latset version.
+
+step 2 _ Go to URL, [ https://flutter.dev/docs/get-started/install/windows ] and download the latest Flutter SDK. As of April 2019, the version is 1.2.1 and the file is flutter_windows_v1.2.1-stable.zip.
+
+Step 3 − Unzip the zip archive in a folder, say C:\flutter\
+
+Step 4 − Update the system path to include flutter bin directory.
+
+Step 5 − Flutter provides a tool, flutter doctor to check that all the requirement of flutter development is met.
+
+commend line [ flutter doctor ]
+
+when you run this commend this must show 
+
+///////////////////////////////////////////////////////////////
+Doctor summary (to see all details, run flutter doctor -v):
+[√] Flutter (Channel stable, v1.2.1, on Microsoft Windows [Version
+10.0.17134.706], locale en-US)
+[√] Android toolchain - develop for Android devices (Android SDK version
+28.0.3)
+[√] Android Studio (version 3.2)
+[√] VS Code, 64-bit edition (version 1.29.1)
+[!] Connected device
+! No devices available
+! Doctor found issues in 1 category.
+////////////////////////////////////////////////////////////////
+
+Step 7 − Install the latest Android Studio or vs code, if reported by flutter doctor
+
+Step 8 − Start an android emulator or connect a real android device to the system.
+
+Step 9 − Install Flutter and Dart plugin for Android Studio or vs code. It provides startup template to create new Flutter application, an option to run and debug Flutter application in the Android studio itself, etc.,
+
+- Open Android Studio or vs code.
+
+- Click File → Settings → Plugins.
+
+- Select the Flutter plugin and click Install.
+
+- Click Yes when prompted to install the Dart plugin.
+
+- Restart Android studio or vs code.
+
+///////////////////////note//////////////////////////////////////////////////////////////////////////////////////////////////////////
+//                                                                                                                                 //
+//  - to use your phone  go to any navigateur and tape how to enable Developer options + your phone name then enable usb debugging //
+//  - if you want to use the emulator don't forget to download it                                                                  //
+//                                                                                                                                 //
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
