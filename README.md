@@ -6,6 +6,8 @@
 
 📫app_flutter_engage_xd.xd the design we will work on the work shop .  
 
+🙌the links to download the necessary tools .  
+
 ⚡download Git https://git-scm.com/downloads .  
 
 ⚡download the latest Flutter SDK https://flutter.dev/docs/get-started/install/windows .  
