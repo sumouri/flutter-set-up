@@ -1,18 +1,19 @@
-# Flutter set up
-setup folder contain flutter default code .  
+# Flutter set up  
 
-flutter_setup.txt contain the setps to setup flutter .  
+🔭setup folder contain flutter default code .  
 
-app_flutter_engage_xd.xd the design we will work on the work shop .  
+🌱flutter_setup.txt contain the setps to setup flutter .  
 
-download Git https://git-scm.com/downloads .  
+📫app_flutter_engage_xd.xd the design we will work on the work shop .  
 
-download the latest Flutter SDK https://flutter.dev/docs/get-started/install/windows .  
+⚡download Git https://git-scm.com/downloads .  
 
-download the latest vs code version https://code.visualstudio.com/ .  
+⚡download the latest Flutter SDK https://flutter.dev/docs/get-started/install/windows .  
 
-download the latest android studio version https://developer.android.com/studio .  
+⚡download the latest vs code version https://code.visualstudio.com/ .  
 
-if you don't understand the steps watch this YouTube video https://youtu.be/8saLa5fh0ZI .  
+⚡download the latest android studio version https://developer.android.com/studio .  
 
-thank you !!
+⚡if you don't understand the steps watch this YouTube video https://youtu.be/8saLa5fh0ZI .  
+
+🙏thank you !!
